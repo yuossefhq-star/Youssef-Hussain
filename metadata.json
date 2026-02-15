@@ -1,0 +1,7 @@
+{
+  "name": " Food resturant",
+  "description": "A high-fidelity, cyber-inspired food delivery landing page and menu system featuring neon aesthetics, dynamic content, and a futuristic UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
